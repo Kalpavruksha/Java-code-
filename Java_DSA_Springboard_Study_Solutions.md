@@ -2,9 +2,7 @@
 
 > **Purpose:** Copy-paste study notes for the Springboard / Infosys-style Java exercises shown in the screenshots.
 >
-> The solutions below focus on the **logic and Java patterns** you should remember. In an assessment, keep the method signature and class name supplied by the platform exactly as given.
-
----
+> 
 
 # 0. Quick Pattern Map
 
